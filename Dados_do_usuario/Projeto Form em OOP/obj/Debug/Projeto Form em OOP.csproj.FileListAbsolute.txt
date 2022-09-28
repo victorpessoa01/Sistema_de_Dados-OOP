@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto_Form_em_OOP.Form1.resources
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto_Form_em_OOP.Properties.Resources.resources
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\bin\Debug\Projeto Form em OOP.exe.config
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\bin\Debug\Projeto Form em OOP.exe
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\bin\Debug\Projeto Form em OOP.pdb
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.exe
+C:\Users\SENAI\Documents\Jose Victor\Dados_do_usuario\Projeto Form em OOP\obj\Debug\Projeto Form em OOP.pdb
